@@ -1,4 +1,9 @@
-## Oiii! Me chamo elmo Braun 
+## Hi, I'm Elmo Braun
+📲 Front-end Mobile with React Native
+🌎 Front-end Web with Reactjs
+📡 Back-end with Nodejs
+🛠️ Typescript
+🧰 And more...
  <div>
   <a href="https://github.com/ElmoBraun">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElmoBraun&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
